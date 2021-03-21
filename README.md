@@ -1,0 +1,2 @@
+# inlinefunction
+inline function program
